@@ -7,9 +7,9 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮AbhishekSuresh2030@gmail.com
+//▮WHATSAPP US : +919074692450
+//▮YOUTUBE CHANNELL: https://tinyurl.com/2mybgbu7
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,8 +17,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DikaArdnt
+//┃THANKS FOR CHOOSING ABHISHEK-SER
+//┃THANKS TO Zim Bot Inc
 //┃BEHOLD THE NEW
 //┃
 //┃LET LOVE LEAD
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['27634090203','447441437150']
-global.bothelp = ['918188019676']
+global.botdev = ['919074692450','919074692450']
+global.bothelp = ['918086993101']
 
 //function rpg
    const { 
@@ -1899,7 +1899,7 @@ break
                     if (!isAdmins) throw mess.admin
     let teks = ` 
      ┏━━━━━━━━━━━┑
-     ┃🌟𝗧𝗔𝗚𝗔𝗟𝗟🌟
+     ┃🥵𝗧𝗔𝗚𝗔𝗟𝗟🥵
      ┃┄┄┄┄┄┄┄┄┄┄┄┊
      ┃*𝐌𝐄𝐒𝐒𝐀𝐆𝐄 : ${q ? q : 'blank'}*\n\n
      ┗━━━━━━━━ 
@@ -6875,10 +6875,10 @@ case 'listmenu': case 'list': {
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃https://tinyurl.com/2mybgbu7
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
-┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
+┃              ABHISHEK-SER
 ╰━━━━━━━━━━━━━━━━━━╯`,
        footer: ZimBotInc.user.name,
        title: `${ucapannya2} ${pushname}`,
