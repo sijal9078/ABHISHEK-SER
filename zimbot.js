@@ -71,7 +71,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 limitawal = '100'
 botname = 'ZIM BOT INC'
 wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+global.reactmoji = '👻'
 limitCount = setting.limit
 
 //read database
