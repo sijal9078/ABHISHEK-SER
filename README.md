@@ -1,8 +1,8 @@
-# Queen Ashiya V2
+# ABHISHEK-SER
 
-### WhatsApp MD user bot
+### WhatsApp Bgm bot
 
-## World best multi device whatsapp bot🖤
+## World best Bgm whatsapp bot🖤
 
 <img src="https://i.ibb.co/tm8BJTw/b13594a88fe8f1b8cf4ac9d7a2f07f74.jpg" alt="nz" width="350"/>
 
@@ -16,11 +16,11 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/BlackPanther-svg/Queen-Ashiya-v2.1.0/fork)
+4. Click [FORK](https://github.com/BOSS444HACKER/Queen-Ashiya-v2.1.0/fork)
 
 5. Now [DEPLOY](https://heroku.com/deploy)
 
    <a href="https://chat.whatsapp.com/FL2OqqLOxOOFN9Zw6nYXtZ"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Thanks to everyone
+### Thanks to Zim Bot Inc For Data Base👻
 
