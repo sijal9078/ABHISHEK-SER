@@ -237,7 +237,7 @@ switch(hari) {
     if (isCmd) msgFilter.addFilter(from)
     
 // TIME 
-const time2 = moment().tz('Africa/Harare').format('HH:mm:ss')
+const time2 = moment().tz('Asia/Colombia').format('HH:mm:ss')
 if(time2 < "23:59:00"){
 var ucapannya2 = `Good Night 🌒`
 }
@@ -258,7 +258,7 @@ var ucapannya2 = `Good morning 🌅`
 }
 
 global.botdev = ['919074692450','919074692450']
-global.bothelp = ['918086993101']
+global.bothelp = ['919074692450']
 
 //function rpg
    const { 
