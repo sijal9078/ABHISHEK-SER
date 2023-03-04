@@ -72,7 +72,7 @@ limitawal = '100'
 botname ='ABHISHEK-SER'
 wm = 'ABHISHEK-SER'
 global.reactmoji = '👻'
-limitCount = 
+limitCount = settings.limit
 
 //read database
 const limit = JSON.parse(fs.readFileSync('./database/limit.json'))
@@ -85,7 +85,7 @@ const _level = JSON.parse(fs.readFileSync('./database/level.json'))
 const banned = JSON.parse(fs.readFileSync('./database/banned.json'))
 const dripsanti = JSON.parse(fs.readFileSync('./lib/rude.json'))
 let bad = JSON.parse(fs.readFileSync('./lib/rude.json'))
-const  autoblock = JSON.parse(fs.readFileSync('./database/autoblock.json'))
+const  autoblock = JSON.parse(fs.readFileSync('./database/autobloc.json'))
 const dripsno = JSON.parse(fs.readFileSync('./database/autoblock.json'))
 const dripswelcome = JSON.parse(fs.readFileSync('./database/welcome.json'))
 
