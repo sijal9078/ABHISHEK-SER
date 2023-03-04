@@ -72,7 +72,7 @@ limitawal = '100'
 botname ='ABHISHEK-SER'
 wm = 'ABHISHEK-SER'
 global.reactmoji = '👻'
-limitCount = setting.limit
+limitCount = 
 
 //read database
 const limit = JSON.parse(fs.readFileSync('./database/limit.json'))
