@@ -6,11 +6,11 @@
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
+//▮REPORT ABUSE OF THIS SOFTWARE EMAIL▮ US
 //▮AbhishekSuresh2030@gmail.com
 //▮WHATSAPP US : +919074692450
 //▮YOUTUBE CHANNELL: https://tinyurl.com/2mybgbu7
-//▮
+//
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -72,7 +72,7 @@ limitawal = '100'
 botname ='ABHISHEK-SER'
 wm = 'ABHISHEK-SER'
 global.reactmoji = '👻'
-limitCount = settings.limit
+limitCount = setting.limit
 
 //read database
 const limit = JSON.parse(fs.readFileSync('./database/limit.json'))
